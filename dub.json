@@ -1,0 +1,12 @@
+{
+    "authors": [
+        "User"
+    ],
+    "copyright": "Copyright © 2024, User",
+    "description": "A minimal D application.",
+    "license": "GPL-3.0-or-later",
+    "name": "captcha_d",
+    "dependencies": {
+        "vibe-d": "~>0.10.1"
+    }
+}
